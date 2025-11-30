@@ -62,9 +62,10 @@ Login dengan kredensial superadmin berikut:
 *👇👇👇
 link file Sistem-Informasih-Perpustakaan-Unmus-Merauke-dengan-fitur-QR : 
 
-https://drive.google.com/drive/folders/1Ou5y14lMzK9F1ssj7uETC39FsKDq1tIX?usp=sharing
+https://drive.google.com/drive/folders/1reC7J27GD1WpLPZkfsaBRAn32OpB5Rh9
 
 -----------------------------------------------------------------------------------------------------------------------------*
+
 
 
 
