@@ -6,7 +6,7 @@ Cara Penggunaan :
 
 ⚫ Composer.
 
-⚫ PHP 8.1+ dan MySQL atau XAMPP versi 8.1+ dengan mengaktifkan extension -intl dan -gd.
+⚫ PHP 8.1+ dan MySQL atau XAMPP, Laragon versi 8.1+ dengan mengaktifkan extension -intl dan -gd.
 
 ⚫ (Opsional) Kamera/webcam untuk menjalankan qr scanner. Bisa juga menggunakan kamera HP dengan bantuan software DroidCam.
 
@@ -63,7 +63,9 @@ Login dengan kredensial superadmin berikut:
 link file Sistem-Informasih-Perpustakaan-Unmus-Merauke-dengan-fitur-QR : 
 
 https://drive.google.com/drive/folders/1Ou5y14lMzK9F1ssj7uETC39FsKDq1tIX?usp=sharing
+
 -----------------------------------------------------------------------------------------------------------------------------*
+
 
 
 
